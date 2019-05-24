@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 line 1.
+=======
+line1.
+>>>>>>> 6f2bfab6bb561e10b0d00edb35b3351fe6ecd068
